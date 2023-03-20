@@ -1,0 +1,353 @@
+﻿
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data":  
+[
+    {
+        "id": "1",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Cinta Pertama (Sunny) - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Cinta%20Pertama%20%28Sunny%29.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Tentang Dia - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Tentang%20Dia%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Terlanjur Cinta - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Terlanjur%20Cinta%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Kamu Yang Kutunggu - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Kamu%20Yang%20Kutunggu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Kubahagia - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Kubahagia%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Kumenunggu - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Kumenunggu%20-%20Rossa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Aku Dan Dirimu Ft.Ari Lasso - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Aku%20Dan%20Dirimu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Denting - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Denting%20-%20Rossa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "9",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Bintang Dihati - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Bintang%20Dihati%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "10",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Wanita Terbahagia - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Wanita%20Terbahagia%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "11",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Saat Kau Pergi - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Saat%20Kau%20Pergi.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "12",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Memilih Dia - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Memilih%20Dia%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "13",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Jika - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Jika%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "14",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Gantung - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Gantung%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "15",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Bimbang - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Bimbang%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "16",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Menghitung Hari - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Menghitung%20Hari%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "17",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Aku Tak Mau Sendiri - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Aku%20Tak%20Mau.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "18",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Ada Apa Dengan Cinta - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Ada%20Apa%20Dengan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "19",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Jangan Hilangkan Dia - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Jangan%20Hilangkan%20Dia.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "20",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Karena Kucinta Kau - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Karena%20Kucinta%20Kau.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "21",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Wanita Yang Kau Pilih - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Wanita%20Yang%20Kau.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "22",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Ketika Cinta Bertasbih - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Ketika%20Cinta%20Bertasbih.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "23",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Cinta Sejati - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Cinta%20Sejati%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "24",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Tentang Kamu - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Tentang%20Kamu%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "25",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Hati Yang Kau Sakiti - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Hati%20Yang%20Kau.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "26",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Harta Berharga - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Harta%20Berharga%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "27",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Cinta - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Cinta%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "28",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Pudar - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Pudar%20-%20Rossa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "29",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Mungkin - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Mungkin%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "30",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Apa Artinya Cinta - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Apa%20Artinya%20Cinta.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "31",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Terlalu Cinta - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Terlalu%20Cinta%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "32",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Catatanku - Melly Goeslaw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Catatanku%20-%20Melly.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "33",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Aku Bukan Untukmu - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Aku%20Bukan%20Untukmu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "34",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Ayat Ayat Cinta - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Ayat%20Ayat%20Cinta.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "35",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Kecewa - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Kecewa%20-%20Bunga.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "36",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Takdir Cinta - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Takdir%20Cinta%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "37",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Atas Nama Cinta - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Atas%20Nama%20Cinta.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "38",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Ingkar - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Ingkar%20-%20Bunga.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "39",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Tegar - Rossa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Tegar%20-%20Rossa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "40",
+        "name_category": "Lagu Terbaik Dari Melly Goeslaw, BCL, Rossa [40 Lagu Hits Terpopuler]",
+        "title": "Aku Pasti Datang - Bunga Citra Lestari",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/jika-melly/Aku%20Pasti%20Datang.ogg"
+    }
+]
+}
